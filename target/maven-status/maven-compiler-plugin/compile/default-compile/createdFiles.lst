@@ -1,0 +1,4 @@
+cl/blog/springboothibernatetest/Application.class
+cl/blog/springboothibernatetest/dao/IPersonDAO.class
+cl/blog/springboothibernatetest/dao/PersonDAO.class
+cl/blog/springboothibernatetest/entitys/PersonEntity.class
